@@ -26,7 +26,7 @@
     "sinon": ">=1"
   },
   "scripts": {
-    "heroku-prebuild": "sudo npm config set strict-ssl false"
+    "heroku-prebuild": "npm config set strict-ssl false"
   },
   "engines": {
     "node": "0.10.8"
