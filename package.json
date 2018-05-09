@@ -25,9 +25,6 @@
     "should": ">=1",
     "sinon": ">=1"
   },
-  "scripts": {
-    "heroku-prebuild": "npm config set registry http://registry.npmjs.org/"
-  },
   "engines": {
     "node": "0.10.48"
   }
